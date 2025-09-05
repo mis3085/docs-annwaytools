@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.annwaytools.com/sitemap.xml
