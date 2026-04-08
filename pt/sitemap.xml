@@ -3,458 +3,718 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://smp.annwaytools.com/pt/contact/</loc>
+    <loc>https://smp.annwaytools.com/pt/applications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/contact/"
+      href="https://smp.annwaytools.com/en/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/contact/"
+      href="https://smp.annwaytools.com/de/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/contact/"
+      href="https://smp.annwaytools.com/es/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/contact/"
+      href="https://smp.annwaytools.com/fr/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/contact/"
+      href="https://smp.annwaytools.com/it/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/contact/"
+      href="https://smp.annwaytools.com/ru/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/contact/"
+      href="https://smp.annwaytools.com/ar/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/contact/"
+      href="https://smp.annwaytools.com/hi/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/contact/"
+      href="https://smp.annwaytools.com/ja/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/contact/"
+      href="https://smp.annwaytools.com/ko/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/contact/"
+      href="https://smp.annwaytools.com/zh-tw/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/contact/"
+      href="https://smp.annwaytools.com/pt/applications/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/e-catalog/</loc>
+    <loc>https://smp.annwaytools.com/pt/contactus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/e-catalog/"
+      href="https://smp.annwaytools.com/en/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/e-catalog/"
+      href="https://smp.annwaytools.com/de/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/e-catalog/"
+      href="https://smp.annwaytools.com/es/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/e-catalog/"
+      href="https://smp.annwaytools.com/fr/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/e-catalog/"
+      href="https://smp.annwaytools.com/it/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/e-catalog/"
+      href="https://smp.annwaytools.com/ru/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/e-catalog/"
+      href="https://smp.annwaytools.com/ar/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/e-catalog/"
+      href="https://smp.annwaytools.com/hi/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/e-catalog/"
+      href="https://smp.annwaytools.com/ja/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/e-catalog/"
+      href="https://smp.annwaytools.com/ko/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/e-catalog/"
+      href="https://smp.annwaytools.com/zh-tw/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/e-catalog/"
+      href="https://smp.annwaytools.com/pt/contactus/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/product/milling-chuck-02/</loc>
+    <loc>https://smp.annwaytools.com/pt/shop/measuring-device-10/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/en/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/de/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/es/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/fr/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/it/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/ru/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/ar/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/hi/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/ja/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/ko/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/zh-tw/shop/measuring-device-10/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/product/milling-chuck-02/"
+      href="https://smp.annwaytools.com/pt/shop/measuring-device-10/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/product/collet-chuck-03/</loc>
+    <loc>https://smp.annwaytools.com/pt/company-profile/esg/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/en/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/de/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/es/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/fr/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/it/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/product/collet-chuck-03/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.annwaytools.com/ar/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/ru/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/hi/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/ja/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/ko/company-profile/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/zh-tw/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/product/collet-chuck-03/"
+      href="https://smp.annwaytools.com/pt/company-profile/esg/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/product/tapping-chuck-05/</loc>
+    <loc>https://smp.annwaytools.com/pt/exhibition-2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/en/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/de/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/es/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/fr/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/it/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/ru/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/ar/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/hi/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/ja/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/ko/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/zh-tw/exhibition-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/product/tapping-chuck-05/"
+      href="https://smp.annwaytools.com/pt/exhibition-2/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/news/</loc>
+    <loc>https://smp.annwaytools.com/pt/shop/cutting-tools-9/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/news/"
+      href="https://smp.annwaytools.com/en/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/news/"
+      href="https://smp.annwaytools.com/de/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/news/"
+      href="https://smp.annwaytools.com/es/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/news/"
+      href="https://smp.annwaytools.com/fr/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/news/"
+      href="https://smp.annwaytools.com/it/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/news/"
+      href="https://smp.annwaytools.com/ru/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/news/"
+      href="https://smp.annwaytools.com/ar/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/news/"
+      href="https://smp.annwaytools.com/hi/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/news/"
+      href="https://smp.annwaytools.com/ja/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/news/"
+      href="https://smp.annwaytools.com/ko/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/news/"
+      href="https://smp.annwaytools.com/zh-tw/shop/cutting-tools-9/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/news/"
+      href="https://smp.annwaytools.com/pt/shop/cutting-tools-9/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/product/tool-holder-01/</loc>
+    <loc>https://smp.annwaytools.com/pt/applications/multiasking-turing-tools/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/en/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/de/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/es/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/fr/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/it/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/ru/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/ar/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/hi/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/ja/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/ko/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/zh-tw/applications/multiasking-turing-tools/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/product/tool-holder-01/"
+      href="https://smp.annwaytools.com/pt/applications/multiasking-turing-tools/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/shop/multitasking-turning-tools-8/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/shop/multitasking-turning-tools-8/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/shop/multitasking-turning-tools-8/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/shop/collet-chuck-4/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/shop/collet-chuck-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/shop/collet-chuck-4/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/shop/others-11/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/shop/others-11/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/shop/others-11/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/company-profile/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/company-profile/"
     />
   </url>
   <url>
@@ -523,198 +783,653 @@
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/product/</loc>
+    <loc>https://smp.annwaytools.com/pt/shop/general-tool-holder-5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/product/"
+      href="https://smp.annwaytools.com/en/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/product/"
+      href="https://smp.annwaytools.com/de/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/product/"
+      href="https://smp.annwaytools.com/es/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/product/"
+      href="https://smp.annwaytools.com/fr/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/product/"
+      href="https://smp.annwaytools.com/it/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/product/"
+      href="https://smp.annwaytools.com/ru/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/product/"
+      href="https://smp.annwaytools.com/ar/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/product/"
+      href="https://smp.annwaytools.com/hi/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/product/"
+      href="https://smp.annwaytools.com/ja/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/product/"
+      href="https://smp.annwaytools.com/ko/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/product/"
+      href="https://smp.annwaytools.com/zh-tw/shop/general-tool-holder-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/product/"
+      href="https://smp.annwaytools.com/pt/shop/general-tool-holder-5/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/product/boring-head-04/</loc>
+    <loc>https://smp.annwaytools.com/pt/applications/milling-holder/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/product/boring-head-04/"
+      href="https://smp.annwaytools.com/en/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/product/boring-head-04/"
+      href="https://smp.annwaytools.com/de/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/product/boring-head-04/"
+      href="https://smp.annwaytools.com/es/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/product/boring-head-04/"
+      href="https://smp.annwaytools.com/fr/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/product/boring-head-04/"
+      href="https://smp.annwaytools.com/it/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/product/boring-head-04/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.annwaytools.com/hi/product/boring-head-04/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.annwaytools.com/ko/product/boring-head-04/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.annwaytools.com/ja/product/boring-head-04/"
+      href="https://smp.annwaytools.com/ru/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/product/boring-head-04/"
+      href="https://smp.annwaytools.com/ar/applications/milling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/applications/milling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/applications/milling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/product/boring-head-04/"
+      href="https://smp.annwaytools.com/zh-tw/applications/milling-holder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/product/boring-head-04/"
+      href="https://smp.annwaytools.com/pt/applications/milling-holder/"
     />
   </url>
   <url>
-    <loc>https://smp.annwaytools.com/pt/about-us/</loc>
+    <loc>https://smp.annwaytools.com/pt/shop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.annwaytools.com/en/about-us/"
+      href="https://smp.annwaytools.com/en/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.annwaytools.com/de/about-us/"
+      href="https://smp.annwaytools.com/de/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.annwaytools.com/es/about-us/"
+      href="https://smp.annwaytools.com/es/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.annwaytools.com/fr/about-us/"
+      href="https://smp.annwaytools.com/fr/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.annwaytools.com/it/about-us/"
+      href="https://smp.annwaytools.com/it/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.annwaytools.com/ru/about-us/"
+      href="https://smp.annwaytools.com/ru/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.annwaytools.com/ar/about-us/"
+      href="https://smp.annwaytools.com/ar/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.annwaytools.com/hi/about-us/"
+      href="https://smp.annwaytools.com/hi/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.annwaytools.com/ja/about-us/"
+      href="https://smp.annwaytools.com/ja/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.annwaytools.com/ko/about-us/"
+      href="https://smp.annwaytools.com/ko/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.annwaytools.com/zh-tw/about-us/"
+      href="https://smp.annwaytools.com/zh-tw/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.annwaytools.com/pt/about-us/"
+      href="https://smp.annwaytools.com/pt/shop/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/company-profile/global-network/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/company-profile/global-network/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/company-profile/global-network/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/applications/boring-system/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/applications/boring-system/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/applications/boring-system/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/shop/boring-system-6/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/shop/boring-system-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/shop/boring-system-6/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/applications/reaming-holder/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/applications/reaming-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/applications/reaming-holder/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/applications/tapping-holder/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/applications/tapping-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/applications/tapping-holder/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/applications/drilling-holder/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/applications/drilling-holder/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/applications/drilling-holder/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.annwaytools.com/pt/shop/tapper-chuck-7/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.annwaytools.com/en/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.annwaytools.com/de/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.annwaytools.com/es/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.annwaytools.com/fr/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.annwaytools.com/it/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.annwaytools.com/ru/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.annwaytools.com/ar/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.annwaytools.com/hi/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.annwaytools.com/ja/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.annwaytools.com/ko/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.annwaytools.com/zh-tw/shop/tapper-chuck-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.annwaytools.com/pt/shop/tapper-chuck-7/"
     />
   </url>
 </urlset>
